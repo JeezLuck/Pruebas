@@ -1,4 +1,5 @@
-        {       
+{
+    "data": [{       
         titulo: 'Pulp Fiction',
         director: 'tarantiniano',
         estreno: 'un año',
@@ -79,4 +80,5 @@
         genero: 'indefinido',
         sinopsis: 'una peli',
         caratula: '<img src = "https://pics.filmaffinity.com/pulp_fiction-210382116-large.jpg" width="200" height="150" />'
-    }
+} ]
+}
