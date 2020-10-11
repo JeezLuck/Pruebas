@@ -3,6 +3,7 @@
     "items" : [
     
         {       
+            "id": 1,
             "titulo": "Pulp Fiction",
             "director": "tarantiniano",
             "estreno": "un año",
@@ -11,7 +12,8 @@
              "caratula": "<img src = \"https:\/\/pics.filmaffinity.com\/pulp_fiction-210382116-large.jpg\" width=\"200\" height=\"150\"\/>"
         }, {
     
-           "titulo": "Pulp Fiction",
+           "id": 2,
+            "titulo": "Pulp Fiction",
             "director": "tarantiniano",
             "estreno": "un año",
             "genero": "indefinido",
@@ -19,15 +21,7 @@
              "caratula": "<img src = \"https:\/\/pics.filmaffinity.com\/pulp_fiction-210382116-large.jpg\" width=\"200\" height=\"150\"\/>"
         }, {
     
-           "titulo": "Pulp Fiction",
-            "director": "tarantiniano",
-            "estreno": "un año",
-            "genero": "indefinido",
-            "sinopsis": "una peli",
-             "caratula": "<img src = \"https:\/\/pics.filmaffinity.com\/pulp_fiction-210382116-large.jpg\" width=\"200\" height=\"150\"\/>"
-    
-        }, {
-    
+           "id": 3,
             "titulo": "Pulp Fiction",
             "director": "tarantiniano",
             "estreno": "un año",
@@ -37,7 +31,18 @@
     
         }, {
     
-           "titulo": "Pulp Fiction",
+            "id": 4,
+            "titulo": "Pulp Fiction",
+            "director": "tarantiniano",
+            "estreno": "un año",
+            "genero": "indefinido",
+            "sinopsis": "una peli",
+             "caratula": "<img src = \"https:\/\/pics.filmaffinity.com\/pulp_fiction-210382116-large.jpg\" width=\"200\" height=\"150\"\/>"
+    
+        }, {
+    
+           "id": 5,
+            "titulo": "Pulp Fiction",
             "director": "tarantiniano",
             "estreno": "un año",
             "genero": "indefinido",
@@ -45,14 +50,16 @@
              "caratula": "<img src = \"https:\/\/pics.filmaffinity.com\/pulp_fiction-210382116-large.jpg\" width=\"200\" height=\"150\"\/>"
         }, {
     
-           "titulo": "Pulp Fiction",
+          "id": 6,
+            "titulo": "Pulp Fiction",
             "director": "tarantiniano",
             "estreno": "un año",
             "genero": "indefinido",
             "sinopsis": "una peli",
              "caratula": "<img src = \"https:\/\/pics.filmaffinity.com\/pulp_fiction-210382116-large.jpg\" width=\"200\" height=\"150\"\/>"
         }, {
-    "titulo": "Pulp Fiction",
+            "id": 7,
+            "titulo": "Pulp Fiction",
             "director": "tarantiniano",
             "estreno": "un año",
             "genero": "indefinido",
@@ -60,7 +67,8 @@
              "caratula": "<img src = \"https:\/\/pics.filmaffinity.com\/pulp_fiction-210382116-large.jpg\" width=\"200\" height=\"150\"\/>"
         }, {
     
-           "titulo": "Pulp Fiction",
+            "id": 8,
+            "titulo": "Pulp Fiction",
             "director": "tarantiniano",
             "estreno": "un año",
             "genero": "indefinido",
@@ -68,14 +76,16 @@
              "caratula": "<img src = \"https:\/\/pics.filmaffinity.com\/pulp_fiction-210382116-large.jpg\" width=\"200\" height=\"150\"\/>"
         }, {
     
-        "titulo": "Pulp Fiction",
+            "id": 9,
+            "titulo": "Pulp Fiction",
             "director": "tarantiniano",
             "estreno": "un año",
             "genero": "indefinido",
             "sinopsis": "una peli",
              "caratula": "<img src = \"https:\/\/pics.filmaffinity.com\/pulp_fiction-210382116-large.jpg\" width=\"200\" height=\"150\"\/>"
         }, {
-    "titulo": "Pulp Fiction",
+            "id": 10,
+            "titulo": "Pulp Fiction",
             "director": "tarantiniano",
             "estreno": "un año",
             "genero": "indefinido",
